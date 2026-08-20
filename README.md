@@ -68,23 +68,6 @@ System Design            ████████░░░░░░░░░░�
 
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=251-15-227-emon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=251-15-227-emon&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=251-15-227-emon&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -93,13 +76,6 @@ System Design            ████████░░░░░░░░░░�
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=251-15-227-emon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
