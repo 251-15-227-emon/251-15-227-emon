@@ -97,10 +97,10 @@ System Design           ████████░░░░░░░░░░�
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=251-15-227-emon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=251-15-227-emon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=251-15-227-emon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=251-15-227-emon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
 </td>
 </tr>
 </table>
