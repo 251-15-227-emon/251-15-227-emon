@@ -164,37 +164,6 @@ Currently working on improving my fundamentals and building larger projects.
 [ ] Build a portfolio-level project
 ```
 
----
-
-## 📌 What I'm Working Toward
-
-```text
-          STUDENT
-             │
-             ▼
-        ┌───────────┐
-        │   JAVA    │
-        │    OOP    │
-        └─────┬─────┘
-              │
-              ▼
-        ┌───────────┐
-        │    DSA    │
-        │ ALGORITHMS │
-        └─────┬─────┘
-              │
-              ▼
-        ┌───────────┐
-        │  BACKEND  │
-        │   & APIs  │
-        └─────┬─────┘
-              │
-              ▼
-        ┌───────────┐
-        │   SYSTEM  │
-        │   DESIGN  │
-        └───────────┘
-```
 
 ---
 
