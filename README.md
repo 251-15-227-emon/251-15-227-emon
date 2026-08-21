@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:1E1B4B&height=200&section=header&text=EMON&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Java%20%7C%20OOP%20%7C%20DSA&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:1E1B4B&height=180&section=header&text=EMON&fontSize=50&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+projects+one+commit+at+a+time;Learning.+Building.+Improving.)](https://git.io/typing-svg)
 
@@ -179,18 +179,6 @@ Currently working on improving fundamentals and building larger projects.
 
 ---
 
-## 🎯 2026 Goals
-
-```
-[✓] Strengthen Java & OOP fundamentals
-[ ] Master Data Structures & Algorithms
-[ ] Build real-world Java applications
-[ ] Learn backend development
-[ ] Learn database fundamentals
-[ ] Understand system design
-[ ] Contribute to open source
-[ ] Build a portfolio-level project
-```
 
 ---
 
@@ -201,14 +189,6 @@ Currently working on improving fundamentals and building larger projects.
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-<p align="center">
-<a href="https://github.com/251-15-227-emon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<div align="center">
 
 *Learning today. Building tomorrow.*
 
