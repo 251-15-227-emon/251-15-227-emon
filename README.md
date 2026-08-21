@@ -120,14 +120,6 @@ System Design           ████████░░░░░░░░░░�
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-trophies.devomb.com/?username=251-15-227-emon&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
