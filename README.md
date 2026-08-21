@@ -22,12 +22,12 @@
 <td width="50%" valign="top">
 
 ```yaml
-name: S.M. Shohag Hossain Emon
-role: Computer Science & Engineering Student
-university: Daffodil International University
-location: Dhaka, Bangladesh
-focus: Java, OOP, Data Structures & Algorithms
-philosophy: "Build, break, debug, and build again."
+Name: S.M. Shohag Hossain Emon
+Role: Computer Science & Engineering Student
+University: Daffodil International University
+Location: Dhaka, Bangladesh
+Focus: Java, OOP, Data Structures & Algorithms
+Philosophy: "Build, break, debug, and build again."
 ```
 
 > *"The code works. Now let's understand why."*
