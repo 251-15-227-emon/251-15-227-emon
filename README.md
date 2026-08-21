@@ -172,20 +172,7 @@ Currently working on improving fundamentals and building larger projects.
 <img src="https://raw.githubusercontent.com/251-15-227-emon/251-15-227-emon/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-## 🎯 2026 Goals
-
-```
-[✓] Strengthen Java & OOP fundamentals
-[ ] Master Data Structures & Algorithms
-[ ] Build real-world Java applications
-[ ] Learn backend development
-[ ] Learn database fundamentals
-[ ] Understand system design
-[ ] Contribute to open source
-[ ] Build a portfolio-level project
-```
 
 ---
 
@@ -196,14 +183,6 @@ Currently working on improving fundamentals and building larger projects.
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-<p align="center">
-<a href="https://github.com/251-15-227-emon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<div align="center">
 
 *Learning today. Building tomorrow.*
 
