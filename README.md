@@ -170,21 +170,3 @@ Currently working on improving fundamentals and building larger projects.
 </p>
 
 ---
-
-
----
-
-## 💬 Random Dev Wisdom
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-
----
-
-*Learning today. Building tomorrow.*
-
-⭐ Explore my repositories and follow the journey.
-
-</div>
