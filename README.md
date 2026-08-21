@@ -1,14 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Emon+%F0%9F%91%8B;CSE+Student+%7C+Java+%7C+OOP+%7C+DSA;Building+projects+one+commit+at+a+time;Learning.+Building.+Improving.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:1E1B4B&height=200&section=header&text=EMON&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20Student%20%7C%20Java%20%7C%20OOP%20%7C%20DSA&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://camo.githubusercontent.com/76b74fa58218e2c21f8051e2b83f34e34c55894e403514aafa620fc7b3d26ea8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3235312d2d31352d2d3232372d2d656d6f6e2d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" />
-<img src="https://img.shields.io/github/followers/251-15-227-emon?style=for-the-badge&logo=github&label=Followers&color=58A6FF" />
-<img src="https://komarev.com/ghpvc/?username=251-15-227-emon&style=for-the-badge&color=8B5CF6&label=Profile+Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+projects+one+commit+at+a+time;Learning.+Building.+Improving.)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=251-15-227-emon&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS&labelColor=161B22" />
+<img src="https://img.shields.io/github/followers/251-15-227-emon?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6D28D9&labelColor=161B22" />
+<img src="https://img.shields.io/github/stars/251-15-227-emon?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=1E1B4B&labelColor=161B22" />
 
 </div>
 
 <br>
+
 
 ## 👨‍💻 About Me
 
@@ -172,7 +177,20 @@ Currently working on improving fundamentals and building larger projects.
 <img src="https://raw.githubusercontent.com/251-15-227-emon/251-15-227-emon/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
+## 🎯 2026 Goals
+
+```
+[✓] Strengthen Java & OOP fundamentals
+[ ] Master Data Structures & Algorithms
+[ ] Build real-world Java applications
+[ ] Learn backend development
+[ ] Learn database fundamentals
+[ ] Understand system design
+[ ] Contribute to open source
+[ ] Build a portfolio-level project
+```
 
 ---
 
@@ -183,6 +201,14 @@ Currently working on improving fundamentals and building larger projects.
 </p>
 
 ---
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="https://github.com/251-15-227-emon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
 
 *Learning today. Building tomorrow.*
 
