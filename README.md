@@ -26,7 +26,7 @@ Name: S.M. Shohag Hossain Emon
 Role: Computer Science & Engineering Student
 University: Daffodil International University
 Location: Dhaka, Bangladesh
-Focus: Java, OOP, Data Structures & Algorithms
+focus: Java, OOP, Data Structures & Algorithms
 Philosophy: "Build, break, debug, and build again."
 ```
 
@@ -126,7 +126,8 @@ it makes sense
 </tr>
 </table>
 
-```
+---
+
 
 ---
 
@@ -205,9 +206,9 @@ Currently working on improving fundamentals and building larger projects.
 ---
 
 
+
 ---
 
-##
 
 *Learning today. Building tomorrow.*
 
