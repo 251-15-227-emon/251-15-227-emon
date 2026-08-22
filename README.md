@@ -126,17 +126,6 @@ it makes sense
 </tr>
 </table>
 
----
-
-## 🧩 Currently Learning
-
-```
-Java & OOP              ███████████████████░░   90%
-Data Structures         █████████████████░░░░   80%
-Algorithms              ████████████████░░░░░   75%
-Git & GitHub            ███████████████░░░░░░   70%
-Backend Development     ██████████░░░░░░░░░░░   50%
-System Design           ████████░░░░░░░░░░░░░   40%
 ```
 
 ---
