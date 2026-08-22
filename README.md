@@ -22,12 +22,12 @@
 <td width="50%" valign="top">
 
 ```yaml
-Name: S.M. Shohag Hossain Emon
-Role: Computer Science & Engineering Student
-University: Daffodil International University
-Location: Dhaka, Bangladesh
-Focus: Java, OOP, Data Structures & Algorithms
-Philosophy: "Build, break, debug, and build again."
+name: S.M. Shohag Hossain Emon
+role: Computer Science & Engineering Student
+university: Daffodil International University
+location: Dhaka, Bangladesh
+focus: Java, OOP, Data Structures & Algorithms
+philosophy: "Build, break, debug, and build again."
 ```
 
 > *"The code works. Now let's understand why."*
@@ -51,7 +51,51 @@ I enjoy understanding how things work under the hood, and turning ideas into wor
 
 ---
 
-## ⚡ Tech Stack
+## 🖥️ Whoami
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=%24+whoami;%3E+turning+coffee+into+code+since+day+one;%3E+currently+debugging%3A+my+own+assumptions;%3E+status%3A+compiling+ideas+into+reality" />
+</p>
+
+---
+
+## ⚙️ How I Work
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🔍**
+Break the problem
+down first
+
+</td>
+<td width="25%" align="center">
+
+**✍️**
+Write the ugly
+version first
+
+</td>
+<td width="25%" align="center">
+
+**🐛**
+Break it, then
+fix it properly
+
+</td>
+<td width="25%" align="center">
+
+**🔁**
+Refactor until
+it makes sense
+
+</td>
+</tr>
+</table>
+
+---
+
 
 <table>
 <tr>
@@ -169,4 +213,12 @@ Currently working on improving fundamentals and building larger projects.
 <img src="https://raw.githubusercontent.com/251-15-227-emon/251-15-227-emon/output/github-contribution-grid-snake.svg" />
 </p>
 
+
+
 ---
+
+*Learning today. Building tomorrow.*
+
+⭐ Explore my repositories and follow the journey.
+
+</div>
