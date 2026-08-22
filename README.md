@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:6D28D9,100:1E1B4B&height=180&section=header&text=EMON&fontSize=50&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:6D28D9&height=180&section=header&text=EMON&fontSize=50&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+projects+one+commit+at+a+time;Learning.+Building.+Improving.)](https://git.io/typing-svg)
 
@@ -213,12 +213,17 @@ Currently working on improving fundamentals and building larger projects.
 <img src="https://raw.githubusercontent.com/251-15-227-emon/251-15-227-emon/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
 
 ---
+
+##
 
 *Learning today. Building tomorrow.*
 
 ⭐ Explore my repositories and follow the journey.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:6D28D9&height=120&section=footer" />
